@@ -1,21 +1,4 @@
-[![Depfu](https://badges.depfu.com/badges/ffc18d5b7061ef25e962a4f34bfc50e5/status.svg)](https://depfu.com)
-[![Depfu](https://badges.depfu.com/badges/ffc18d5b7061ef25e962a4f34bfc50e5/overview.svg)](https://depfu.com/github/dimikara/react-my-reads?project_id=11514)
-
-
 # MyReads Project
-
-
-# Table of Contents
-
-* [Overview](#overview)
-* [Specification](#specification)
-* [How to run the project](#how-to-run-the-project)
-* [Important](#important)
-* [App Functionality](#app-functionality)
-* [Credits & Helpful Links](#credits-&-helpful-links)
-* [Screenshots](#screenshots)
-
-
 
 ## Overview
 
